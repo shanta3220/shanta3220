@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nusrat Jahan Shanta</h1>
-<h3 align="center">A passionate full-stack developer and former game developer</h3>
+<h3 align="center">A game developer transitioning to full-stack software engineering.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanta3220" alt="shanta3220" /></a> </p>
 
 - 🔭 I’m currently working on [Jiffygames](https://github.com/shanta3220/nusrat-jahan-shanta-capstone)
 
-- 🌱 I’m refreshing my knowledge again on **Data Structure & Algorithm with Javascript**
+- 🌱 I’m currently refreshing my knowledge again on **Data Structure & Algorithm with Javascript**
 
 - 👨‍💻My capstone project is available at [https://jiffygames.netlify.app](https://jiffygames.netlify.app)
 
