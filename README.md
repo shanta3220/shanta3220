@@ -10,7 +10,7 @@
   <a href="mailto:njshanta.ca@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://discord.com/invite/example" target="_blank">
+  <a href="https://discordlookup.com/user/234375336765161472" target="_blank">
     <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://leetcode.com/shanta3220" target="_blank">
