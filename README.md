@@ -81,7 +81,7 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shanta3220&theme=dracula&row=1&column=-1&margin-w=8&margin-h=8" height="150" alt="Trophy Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanta3220&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shanta3220&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" /><br><br>
-  <img src="https://github-stats-1a7alq6jx-shanta3220s-projects.vercel.app/graph?username=shanta3220&theme=react-dark&radius=16" height="250" alt="Activity Graph" />
+  <img src="https://github-stats-git-main-shanta3220s-projects.vercel.app/api/top-langs/?username=shanta3220&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-stats-git-main-shanta3220s-projects.vercel.app/api?username=shanta3220&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" /><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanta3220&theme=react-dark&radius=16" height="250" alt="Activity Graph" />
 </div>
