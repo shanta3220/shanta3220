@@ -67,7 +67,7 @@
   <table>
     <tr>
       <td align="left">
-        🔭 Currently working on <a href="https://github.com/shanta3220/nusrat-jahan-shanta-capstone" target="_blank">Jiffygames</a><br>
+        🔭 Currently working on <a href="https://microsoft.github.io/AI_Agents_Hackathon" target="_blank">Nuroxa - Dementia Detecting Agent</a><br>
         🌱 Refreshing my knowledge on <b>Data Structures & Algorithms</b> with <b>JavaScript</b><br>
         👨‍💻 Check out my capstone project: <a href="https://jiffygames.netlify.app" target="_blank">Jiffygames</a><br>
         💬 Ask me about my new passion on <b>Vite-React</b> and <b>JavaScript</b><br>
