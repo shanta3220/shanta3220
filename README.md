@@ -16,7 +16,7 @@
   <a href="https://leetcode.com/shanta3220" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://bit.ly/3ZvyXjS" target="_blank">
+  <a href="https://bit.ly/NJShantaResume" target="_blank">
     <img src="https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="29px" alt="Resume" />
   </a>
 </div>
